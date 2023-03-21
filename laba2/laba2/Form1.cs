@@ -16,5 +16,24 @@ namespace laba2
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double radius = Convert.ToDouble(textBox1.Text);
+            double height = Convert.ToDouble(textBox2.Text);
+
+            // Обчислюємо площу кругового сегмента
+            double angle = 2 * Math.Acos((radius - height) / radius);
+            double segmentArea = 0.5 * Math.Pow(radius, 2) * (angle - Math.Sin(angle));
+
+            // Відображаємо результат в текстовому полі
+            textBox3.Text = segmentArea.ToString();
+        }
     }
 }
+

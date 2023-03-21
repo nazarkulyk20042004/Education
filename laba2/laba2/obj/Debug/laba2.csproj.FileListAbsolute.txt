@@ -1,0 +1,11 @@
+E:\Навчання\Education\laba2\laba2\bin\Debug\laba2.exe.config
+E:\Навчання\Education\laba2\laba2\bin\Debug\laba2.exe
+E:\Навчання\Education\laba2\laba2\bin\Debug\laba2.pdb
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.csproj.SuggestedBindingRedirects.cache
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.Form1.resources
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.Properties.Resources.resources
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.exe
+E:\Навчання\Education\laba2\laba2\obj\Debug\laba2.pdb
