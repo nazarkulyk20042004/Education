@@ -1,0 +1,333 @@
+.body-style {
+    background: #3B5280;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.header-style {
+    position: absolute;
+    justify-content: center;
+
+    display: flex;
+}
+
+/* Стиль лого */
+.logo-style {
+    margin-top: 18px;
+    margin-left: 25px;
+}
+
+/* Мовний стиль */
+.languages {
+    margin-left: 100px;
+    margin-top: 25px;
+    width: 150px;
+}
+
+.language {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #C5D5E6;
+
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+.ukr-language {
+    margin-right: 10px;
+    color: #C5D5E6;
+    text-decoration: none;
+}
+
+/* Стиль меню */
+.menu-style {
+    margin-left: 350px;
+    margin-top: 25px;
+}
+
+.menu-items {
+    margin-right: 40px;
+    text-decoration: none;
+    color: #C5D5E6;
+}
+
+.menu-item-help {
+    margin-right: 40px;
+    text-decoration: none;
+    color: #C5D5E6;
+    background: linear-gradient(270deg, #6082D7 -81.69%, #E73453 100%);
+    border-radius: 3px;
+}
+
+/* Кнопка пошуку */
+
+.button-block {
+    margin-top: 27px;
+    margin-left: 130px;
+    width: 30px;
+    height: 20px;
+
+}
+
+/* Блок реєстрації та входу */
+.sign-block {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.sign-item {
+    color: #C5D5E6;
+}
+
+/* Створення блоку "Добре Серце" */
+.main-content {
+    position: absolute;
+    width: 671px;
+    height: 434px;
+    left: 100px;
+    top: 90px;
+    display: flex;
+}
+
+.main-text {
+    position: relative;
+    top: 10px;
+    height: 20px;
+    margin-left: 10px;
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 81px;
+    color: #FFFFFF;
+}
+
+.about-project-item {
+    position: relative;
+    margin-top: 5px;
+    margin-left: 8px;
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    justify-content: center;
+
+    color: #C5D5E6;
+}
+
+.about-project-content {
+    width: 230px;
+    height: 23px;
+    margin-top: 94px;
+    justify-content: center;
+    display: flex;
+}
+
+.sign-circle {
+
+    position: relative;
+    top: 8px;
+    left: 5px;
+    background: none;
+}
+
+.help-project-block {
+    position: absolute;
+    top: 200px;
+    height: 2px;
+    width: 50px;
+}
+
+.help-project-line {
+    position: relative;
+    height: 2px;
+    width: 42px;
+    left: 10px;
+    background: #FFFFFF;
+}
+
+.help-project-text {
+    position: relative;
+    left: 8px;
+    justify-content: center;
+    display: flex;
+    width: 350px;
+    color: #FFFFFF;
+}
+
+.how-to-help {
+    position: absolute;
+    top: 300px;
+    width: 250px;
+    height: 30px;
+    left: 6px;
+
+    display: flex;
+}
+
+.how-to-help-text {
+    position: relative;
+    margin-top: 5px;
+    margin-left: 1px;
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #C5D5E6;
+}
+
+.how-to-help-item {
+    position: relative;
+    top: 7px;
+    left: 5px;
+}
+
+.add-project-block {
+    position: absolute;
+    top: 410px;
+    height: 150px;
+}
+
+.add-project-line {
+    position: relative;
+    height: 2px;
+    width: 42px;
+    left: 10px;
+    background: #FFFFFF;
+}
+
+.add-project-condition {
+    margin-left: 7px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FFFFFF;
+}
+
+.add-project-row {
+    position: relative;
+    left: 7px;
+    width: 300px;
+    justify-content: flex-start;
+    display: flex;
+}
+
+.add-project-text {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #C5D5E6;
+
+}
+
+.add-project-item {
+    position: absolute;
+    top: 20px;
+    left: 115px;
+}
+
+.minus-item {
+    position: absolute;
+    left: 3.9px;
+    top: 8px;
+}
+
+.plus-item {
+    position: absolute;
+    left: 7.9px;
+    top: 3.8px;
+}
+
+.help-now-block {
+    position: absolute;
+    width: 300px;
+    left: 400px;
+    bottom: 235px;
+    display: flex;
+}
+
+.help-now-text {
+    position: absolute;
+    left: 65px;
+    bottom: 25px;
+    width: 300px;
+    text-decoration: none;
+
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.footer-style {
+    position: absolute;
+    justify-content: center;
+
+    display: flex;
+}
+
+.social-block {
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    left: 90px;
+    top: 770px;
+    display: flex;
+}
+
+.social-media {
+    position: relative;
+    display: flex;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.social-text {
+    font-family: 'Geometria';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #C5D5E6;
+}
+
+.social-items {
+    margin-right: 10px;
+}
+
+.triangle-img {
+    position: absolute;
+    left: 440px;
+    top: 250px; 
+}
+
+.izometric-heart {
+    position: absolute;
+    left: 750px;
+    top: 370px;
+}
+
+.chat-block {
+    position: absolute;
+    left: 1400px;
+    top: 750px;
+}
+
+.chat-logo {
+    position: absolute;
+    right: 23px;
+    bottom: 22px;
+}
